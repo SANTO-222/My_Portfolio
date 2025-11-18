@@ -137,16 +137,16 @@ span {
 .home-img img {
     position: relative;
     top: 3rem;
-    width: 28vw;
-    height: 60vh;
+    width: 31vw;
+    height: 65vh;
     border-radius: 50%;
-    box-shadow: 0 0 25px var(--main-color);
+    box-shadow: 0 0 45px var(--main-color);
     cursor: pointer;
     transition: 0.4s ease-in-out;
 }
 
 .home-img img:hover {
-    box-shadow: 0 0 30px var(--main-color),
+    box-shadow: 0 0 45px var(--main-color),
         0 0 50px var(--main-color), 0 0 100px var(--main-color);
 }
 
